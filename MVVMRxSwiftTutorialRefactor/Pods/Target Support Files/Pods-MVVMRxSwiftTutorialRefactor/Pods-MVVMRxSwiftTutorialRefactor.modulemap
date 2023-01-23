@@ -1,0 +1,6 @@
+framework module Pods_MVVMRxSwiftTutorialRefactor {
+  umbrella header "Pods-MVVMRxSwiftTutorialRefactor-umbrella.h"
+
+  export *
+  module * { export * }
+}
